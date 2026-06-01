@@ -1,17 +1,17 @@
 [
     {
         "name": "PiS",
-        "votes": 2000000,
-        "seats": 178
+        "votes": 10000000,
+        "seats": 183
     },
     {
         "name": "PO",
-        "votes": 1000000,
-        "seats": 89
+        "votes": 8000000,
+        "seats": 146
     },
     {
         "name": "Konfederacja",
-        "votes": 1500000,
-        "seats": 133
+        "votes": 5000000,
+        "seats": 91
     }
 ]
